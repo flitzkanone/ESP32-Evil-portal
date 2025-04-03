@@ -37,11 +37,6 @@ This project is an ESP32-based **Captive Portal** that forces users to enter the
 
 4. Compile and upload the code to your ESP32.
 
-### Setting Up SPIFFS Filesystem
-1. Install the **ESP32 Sketch Data Upload** plugin for Arduino IDE.
-2. Upload `data/` folder contents to SPIFFS.
-3. Restart the ESP32 to apply changes.
-
 ## Usage
 1. Connect to the WiFi network broadcasted by the ESP32.
 2. Open any web page – you will be redirected to the login portal.
