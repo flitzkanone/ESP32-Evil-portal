@@ -1,4 +1,4 @@
-# ESP32 Captive Portal with Login Logging
+# ESP32 Captive Portal / Evil Portal with Login Logging
 
 ## Overview
 This project is an ESP32-based **Captive Portal** that forces users to enter their credentials (email and password) before accessing the internet. It logs the entered credentials and provides an **Admin Panel** to view stored logins.
