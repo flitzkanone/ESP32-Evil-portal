@@ -29,7 +29,6 @@ This project is an ESP32-based **Captive Portal** that forces users to enter the
 2. Install required libraries via the **Library Manager**:
    - **ESPAsyncWebServer**
    - **DNSServer**
-   - **ArduinoJson**
 
 3. Download the preconfigured **evilportal_esp32.ide** file from the repository.
 - Open Arduino IDE and go to File > Open.
