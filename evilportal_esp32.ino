@@ -7,7 +7,7 @@ const char *ssid = "Free Public Wi-Fi";
 const char *password = "";
 const byte DNS_PORT = 53;
 IPAddress apIP(8, 8, 8, 8);
-const char *adminPin = "1234"; // Admin PIN code added here
+const char *adminPin = "admin"; // Admin PIN code added here
 
 DNSServer dnsServer;
 AsyncWebServer server(80);
