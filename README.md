@@ -9,7 +9,7 @@ This project is an ESP32-based **Captive Portal** that forces users to enter the
 - **DNS Redirection**: Ensures all web requests go to the login page.
 - **Login Page**: HTML-based page where users enter credentials.
 - **Admin Panel**: Displays stored credentials and allows clearing logs.
-- **Redirect After Login**: Users are redirected to a predefined website after authentication.
+- **Redirect After Login**: Users are excluded from registration with the message “Something went wrong”.
 
 ## Hardware Requirements
 - ESP32-WROOM-32 (Compatible with ESP32-WROOM-32D, ESP32-WROOM-32E, ESP32-WROVER)
